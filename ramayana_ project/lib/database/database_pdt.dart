@@ -10,7 +10,7 @@ class DbHelper {
   //inisialisasi beberapa variabel yang dibutuhkan
   final String tableName = 'tb_act';
   final String columnId = 'id_act';
-  final String columnKodeToko = 'nik';
+  final String columnNik = 'nik';
   final String columnName = 'fullname';
   final String columnSubdivisi = 'subdivisi';
   final String columnLocation = 'location';
